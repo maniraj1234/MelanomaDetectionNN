@@ -13,6 +13,7 @@ CNN based model which can accurately detect melanoma. Melanoma is a type of canc
 - Adding more convolution layers / more channels increased the model complexity, run time & accuracy proportinately.
 - SeparableConv2D have improved the training time compared to the simple SeparableConv2D
 - Increasing the number of epochs is increasing the model accuracy.
+- softmax activation performed better over others in final layer.
 
 
 ## Technologies Used
